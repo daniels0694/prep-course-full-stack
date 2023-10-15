@@ -1,2 +1,1 @@
-# prep-course-full-stack
-repositorio 2 prepcourse fullstack
+esta es una prueba para crear un repositorio desde git hub
